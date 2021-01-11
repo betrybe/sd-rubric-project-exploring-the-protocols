@@ -12,9 +12,9 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 1. Clone o repositório
 
-- `git clone https://github.com/tryber/sd-0x-project-exploring-the-protocols.git`.
+- `git clone https://github.com/tryber/sd-rubric-project-exploring-the-protocols.git`.
 - Entre na pasta do repositório que você acabou de clonar:
-  - `cd sd-0x-project-exploring-the-protocols`
+  - `cd sd-rubric-project-exploring-the-protocols`
 
 2. Instale as dependências
 
@@ -73,7 +73,7 @@ Usaremos o [ESLint](https://eslint.org/) para fazer a análise estática do seu 
 
 Este projeto já vem com as dependências relacionadas ao _linter_ configuradas nos arquivos `package.json` nos seguintes caminhos:
 
-- `sd-0x-project-exploring-the-protocols`
+- `sd-rubric-project-exploring-the-protocols`
 
 Para poder rodar os `ESLint` em um projeto basta executar o comando `npm install` dentro do projeto e depois `npm run lint`. Se a análise do `ESLint` encontrar problemas no seu código, tais problemas serão mostrados no seu terminal. Se não houver problema no seu código, nada será impresso no seu terminal.
 
@@ -380,7 +380,7 @@ Para sinalizar que o seu projeto está pronto para o _"Code Review"_ dos seus co
 
   * No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
 
-  * No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+  * No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-00`.
 
 Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
