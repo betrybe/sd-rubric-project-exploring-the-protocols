@@ -1,0 +1,56 @@
+{
+  "requirements": [
+    {
+      "description": "Criar um servidor TCP utilizando o módulo net que exiba no console todo o conteúdo recebido",
+      "bonus": false
+    },
+    {
+      "description": "Criar um script utilizando o módulo net capaz de realizar um chamada HTTP a um server",
+      "bonus": false
+    },
+    {
+      "description": "Criar um server TCP utilizando o módulo net capaz de responder com uma mensagem HTTP",
+      "bonus": false
+    },
+    {
+      "description": "Criar um túnel através do Ngrok",
+      "bonus": false
+    },
+    {
+      "description": "Configurar uma chamada HTTPS à API `iplocation`",
+      "bonus": false
+    },
+    {
+      "description": "Adicionar a estrutura de início de requisição HTTP",
+      "bonus": false
+    },
+    {
+      "description": "Adicionar a estrutura de fim da requisição HTTP",
+      "bonus": false
+    },
+    {
+      "description": "Identificar o endereço de IP do client",
+      "bonus": false
+    },
+    {
+      "description": "Configurar a request HTTPS para enviar o endereço IP",
+      "bonus": false
+    },
+    {
+      "description": "Responder o IP do client",
+      "bonus": false
+    },
+    {
+      "description": "Responder informações extraídas através do IP do client",
+      "bonus": false
+    },
+    {
+      "description": "Responder dados do dispositivo (client)",
+      "bonus": true
+    },
+    {
+      "description": "Responder a request com os resources do Server",
+      "bonus": true
+    }
+  ]
+}
